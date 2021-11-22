@@ -1,0 +1,11 @@
+.flex-centered-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  height: 50px;
+  background-color: aqua;
+  border: 1px solid #fff;
+}
