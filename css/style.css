@@ -4,8 +4,22 @@
   align-items: center;
 }
 
+.box,
+.box-green {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
 .box {
   height: 50px;
-  background-color: aqua;
-  border: 1px solid #fff;
+  background-color: rgb(11, 64, 180);
+}
+
+.box-green {
+  background-color: lime;
+  height: 25px;
+}
+
+.padding {
+  padding: 12px;
 }
